@@ -211,7 +211,7 @@
           "_anchor": "header3-c",
           "_params": {
             "paddingTop": "6",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -225,7 +225,7 @@
           "_name": "features3",
           "_anchor": "features3-4",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
