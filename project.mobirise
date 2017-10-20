@@ -114,7 +114,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -190,18 +190,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-3",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<p>O que deseja fazer com o seu imóvel?</p><p>Nós, com os melhores instrumentos actuais, apresentamos-lhe a melhor proposta para o satisfazer na totalidade.</p><p>Constituída por uma equipa técnica especializada conseguimos presentar aos nossos clientes, com as melhores técnicas e capacidades para executar os mais diversos tipos de soluções. Desde o projecto da sua ideia, a sua correspondente construção e até uma solução completa chave na mão, incluindo a conservação, manutenção e administração da sua propriedade.</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>O que deseja fazer com o seu imóvel?</p><p>Nós, com os melhores instrumentos actuais, apresentamos-lhe a melhor proposta para o satisfazer na totalidade.</p><p>Constituída por uma equipa técnica especializada conseguimos presentar aos nossos clientes, com as melhores técnicas e capacidades para executar os mais diversos tipos de soluções. Desde o projecto da sua ideia, a sua correspondente construção e até uma solução completa chave na mão, incluindo a conservação, manutenção e administração da sua propriedade.</p>"
         },
         {
           "_styles": {
