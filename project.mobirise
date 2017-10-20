@@ -26,7 +26,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -133,7 +133,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DMAR CONSTRUÇÕES</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DMAR OBRAS</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">SOBRE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-c\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons1-9\" aria-expanded=\"false\">CONTACTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.dmar.pt\" aria-expanded=\"false\">DMAR GRUPO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -182,7 +182,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "QUEM SOMOS?",
+          "title": "O QUE FAZEMOS?",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -196,7 +196,12 @@
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<p>Nascida através do desejo de prestar o melhor serviço nas diversas áreas da construção, a DMAR Construções apresenta-se como a melhor solução para os seus projetos. Constituída por uma equipa técnica especializada conseguimos presentear os nossos clientes com as melhores técnicas e capacidades para executar os mais diversos tipos de projetos construtivos. Quer tenha uma nova morada para construir ou simplesmente rejuvenescer a sua atual morada não hesite em nos contactar. Ficará maravilhado com o que pudemos fazer por si.</p>"
+          "text": "<p>O que deseja fazer com o seu imóvel?</p><p>Nós, com os melhores instrumentos actuais, apresentamos-lhe a melhor proposta para o satisfazer na totalidade.</p><p>Constituída por uma equipa técnica especializada conseguimos presentar aos nossos clientes, com as melhores técnicas e capacidades para executar os mais diversos tipos de soluções. Desde o projecto da sua ideia, a sua correspondente construção e até uma solução completa chave na mão, incluindo a conservação, manutenção e administração da sua propriedade.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
@@ -215,7 +220,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "OS NOSSOS SERVIÇOS",
+          "title": "EXEMPLOS DOS NOSSOS SERVIÇOS...",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -344,26 +349,24 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "msg-box8",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+            ".mbr-section-title, p": {
+              "color": "#000"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-7",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-d",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#282828",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -372,14 +375,13 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": false
+            "showTitle": false,
+            "showText": false,
+            "showButton": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#contacts3-a\" data-toolbar=\"-mbrBtnMove\">AGENDAR VISITA</a>",
-          "title": "AGENDE JÁ UMA REUNIÃO!",
-          "text": "Cut down the development time with drag-and-drop website builder."
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts3-a\" data-toolbar=\"-mbrBtnMove\">AGENDAR REUNIÃO</a> "
         },
         {
           "_styles": {
@@ -575,7 +577,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTAR</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTAR</a>"
         },
         {
           "_tags": [
