@@ -201,7 +201,7 @@
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<p>O que deseja fazer com o seu imóvel?</p><p>Nós, com os melhores instrumentos actuais, apresentamos-lhe a melhor proposta para o satisfazer na totalidade.</p><p>Constituída por uma equipa técnica especializada conseguimos presentar aos nossos clientes, com as melhores técnicas e capacidades para executar os mais diversos tipos de soluções. Desde o projecto da sua ideia, a sua correspondente construção e até uma solução completa chave na mão, incluindo a conservação, manutenção e administração da sua propriedade.</p>"
+          "text": "<p>O que deseja fazer com o seu imóvel?</p><p>Nós, com os melhores instrumentos actuais, apresentamos-lhe a melhor proposta para o satisfazer na totalidade.</p><p>Constituída por uma equipa técnica especializada conseguimos apresentar aos nossos clientes, com as melhores técnicas e capacidades para executar os mais diversos tipos de soluções. Desde o projecto da sua ideia, a sua correspondente construção e até uma solução completa chave na mão, incluindo a conservação, manutenção e administração da sua propriedade.</p>"
         },
         {
           "_styles": {
@@ -440,10 +440,60 @@
                 "thumb": "@PROJECT_PATH@/assets/images/moradia-madalena-main-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/moradia-madalena-main.jpg",
                 "caption": "Moradia na Madalena",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pexels-photo-1-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-1.jpeg",
+                "caption": "Renovação de WC em Arouca",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pexels-photo-2-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2.jpeg",
+                "caption": "Construção de Piscina no Algarve",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/projecto-renovao-escritrio-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/projecto-renovao-escritrio.jpg",
+                "caption": "Projecto Renovação de Escritório Santa Maria de Lamas",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pexels-photo-3-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-3.jpeg",
+                "caption": "Pintura de Sala em Lisboa",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/solar-panels-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/solar-panels.jpg",
+                "caption": "Renovação de Telhado e Aplicação de Paineis Solares em Penafiel",
                 "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "0",
             "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
