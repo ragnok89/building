@@ -550,7 +550,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/teste-logo-small.png",
+              "src": "@PROJECT_PATH@/assets/images/teste-logo.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -565,7 +565,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
