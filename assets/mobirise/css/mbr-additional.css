@@ -492,6 +492,9 @@ h6,
 #msg-box3-d p {
   color: #000;
 }
+#msg-box3-d .mbr-section-title {
+  color: #ffffff;
+}
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;

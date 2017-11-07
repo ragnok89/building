@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "DMAR Construções",
+    "name": "DMAR OBRAS",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,10 @@
     "uniqCompNum": 14,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "html_before": "",
+    "headbody": "",
+    "botbody": ""
   },
   "pages": {
     "index.html": {
@@ -295,7 +298,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Pintura",
+          "title3": "Remodelações",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -353,6 +356,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -375,13 +381,13 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": true
           },
-          "title": "MODERN STYLES",
+          "title": "AGENDAR UMA REUNIÃO!",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts3-a\" data-toolbar=\"-mbrBtnMove\">AGENDAR REUNIÃO</a> "
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#contacts3-a\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-edit2 mbr-iconfont mbr-iconfont-btn\"></span>AGENDAR</a> "
         },
         {
           "_styles": {
@@ -647,7 +653,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) DMAR 2017. Todos os direitos reservados.&nbsp;"
+          "text": "Copyright (c) DMAR OBRAS 2017. Todos os direitos reservados.&nbsp;"
         }
       ]
     }
