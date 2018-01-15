@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/teste-logo-small-128x127.png",
     "noImageResize": "true",
     "cookiesAlert": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-96179399-4\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-96179399-4');\r\n</script>",
     "versionFirst": "3.12.1",
     "uniqCompNum": 14,
     "versionPublish": "3.12.1",
